@@ -1,0 +1,106 @@
+.round
+{
+    border-radius: 100%;
+    margin-left: 50px;
+    margin-top: 10px;
+   border-image: round;
+}
+body
+{
+    background-color:"#D0C9C0";
+
+}
+a:hover
+{
+   color: crimson;
+}
+.align
+{
+    text-align: start;
+    padding-top: 0px;
+    padding-left: 30px;
+}
+h1
+{
+    text-align: center;
+}
+.size
+{
+    font-size: 20px;
+    color: white;
+}
+.color
+{
+    color:#FF8C32;
+}
+.h1:hover
+{
+    font-size: 60px;
+    color: #B22727;
+}
+.formfillingbutton
+{
+  font-size: 20px;
+  color: white;
+  text-align: end;
+}
+.formfillingbutton:hover
+{
+    color:#B22727;
+}
+.name
+{
+    font-size: 50px;
+    color: white;
+    padding-left: 20px;
+}
+p:hover
+{
+    color: #EC994B;
+}
+h3:hover
+{
+    color: #FF2E63;
+}
+.skills
+{
+    font-size: 20px;
+    color:#252A34;
+}
+.skills:hover
+{
+    color: #B22727;
+    font-size: 30px;
+}
+.header
+{
+    background-color:black;
+}
+.body
+{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-bottom-width: 0px;
+    margin-bottom: 0px;
+}
+.myname
+{
+    padding-left: 50px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+p
+{
+    color:white;
+    font-size: 20px;
+}
+.instalink
+{
+    margin-bottom: 20px;
+    color: white;
+}
+label
+{
+    color: white;
+}
