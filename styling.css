@@ -36,10 +36,9 @@ h3
 {
     display: inline-block;
    border-radius: 100%;
-   position: relative;
-   left: 300px;
-    right: 70px;
-    top: 130px;
+   position: absolute;
+   left: 750px;
+   top: 200px;
 }
 
 .round
@@ -49,17 +48,17 @@ h3
 .helloimg
 {
   display: inline-block;
-  position: relative;
-  left: 300px;
-  top: 15px;
+  position: absolute;
+  left: 55px;
+  top: -20;
+  bottom: 0px;
+  top: 110px;
 }
 h1
 {
-    display: inline-block;
-    position: relative;
-    left: 149px;
-    top: -30;
-    bottom: 30px;
+    display: block;
+    position:absolute;
+    
     color:aliceblue ;
 }
 .h1
@@ -78,28 +77,31 @@ h1
     padding-left: 150px;
     padding-right: 150px;
 }
+.webdeve
+{
+    font-size: 40px;
+    top: 295px;
+    left: 100px;
+    position: absolute;
+}
 .h3
 {
     display: inline-block;
-    position: relative;
-    right: 90px;
-    left: 15px;
     color: aliceblue;
 }
 .icons
 {
     display: inline-block;
     position: absolute;
-    top: 350px;
-    left: 350px;
-    right: 200px;
+    top: 400px;
+    left: 100px;
 }
 .caller
 {
     display: inline-block;
     position: absolute;
-    top: 390px;
-    left: 350px;
+    top: 430px;
+    left: 100px;
 }
 h3:hover
 {
@@ -114,8 +116,8 @@ h3:hover
 {
     display: inline-block;
     position: absolute;
-    top: 430px;
-    left: 350px;
+    top: 460px;
+    left: 100px;
 }
 .info
 {
@@ -126,29 +128,31 @@ h3:hover
 .email
 {
     position:absolute;
-    top: 330px;
-    left: 380px;
+    top: 380px;
+    left: 130px;
 }
 .contact
 {
     position:absolute;
-    top: 370px;
-    left: 380px;
+    top: 410px;
+    left: 130px;
 
 }
 .address
 {
     position:absolute;
-    top: 410px;
-    left: 380px;
+    top: 440px;
+    left: 130px;
 }
 .centerhr
 {
     color: darkgray;
     width: 900px;
     position: absolute;
-    top: 490px;
-    right: 240px;
+    top: 580px;
+    border-left-width: 0px;
+    margin-top: 0px;
+    left: 230px;
 
 }
 
@@ -225,6 +229,19 @@ h4
    top: 100px;
     left: 525px;
 }
+.skills
+{
+    left: 400px;
+}
+.ratingshead
+{
+    left: 800px;
+}
+h2
+{
+    color:white ;
+
+}
 .aboutmehr
 {
 
@@ -247,11 +264,11 @@ h4
 {
     display: inline-block;
     position: absolute;
-    top: 530px;
+    top: 600px;
     left: 510px;
 }
 
-rating1
+.rating1
 {
     display: inline-block;
     color:aliceblue ;
@@ -261,22 +278,41 @@ rating1
 {
   display:inline-block;
   position: absolute;
-  left: 300px;
+  top: 125px;
+ left: 385px;
 
 }
 .header
 {
+    display:inline-block;
+    position: absolute;
     left: 100px;
 }
 .ratings
 {
+    display:inline-block;
+    position: relative;
     left: 180px;
 }
 .stars
 {
+    display:inline-block;
+    position: relative;
     left: 200px
 }
 .webd
 {
           left: 145px;
+}
+.name 
+{
+    font-size: 80px;
+    top: 180px;
+    left: 100px;
+    bottom: 30px;
+}
+.firstsection
+{
+    width: 100%;
+   
 }
